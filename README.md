@@ -3,7 +3,6 @@ Web-API for [thecocktaildb.com](https://www.thecocktaildb.com) which is an open,
 
 ## Example
 ```bash
-source cocktail_db.sh
-
+source ./cocktail_db.sh
 search_cocktails "query"
 ```
